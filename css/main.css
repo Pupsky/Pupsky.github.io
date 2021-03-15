@@ -260,14 +260,14 @@ transition: all .3s linear;
 .header .show-menu {
 	display: block;
 	position: absolute;
- 	background: rgb(0,0,0,0.4);
+ 	background: rgb(0,0,0,0.8);
  	width: 50%;
  	top: 0;
 }
 .header .show-menu2 {
 	display: block;
 	position: absolute;
- 	background: rgb(0,0,0,0.4);
+ 	background: rgb(0,0,0,0.8);
  	width: 50%;
  	top: 120px;
 }
